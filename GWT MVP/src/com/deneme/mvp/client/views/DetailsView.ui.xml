@@ -1,0 +1,60 @@
+<!DOCTYPE ui:UiBinder SYSTEM "http://dl.google.com/gwt/DTD/xhtml.ent">
+<ui:UiBinder xmlns:ui="urn:ui:com.google.gwt.uibinder"
+	xmlns:g="urn:import:com.google.gwt.user.client.ui">
+	<ui:style>
+	.important {
+		font-weight: bold;
+	}
+	</ui:style>
+	<g:HTMLPanel>
+		<g:Grid borderWidth="1">
+			<g:row>
+				<g:customCell>
+					<g:Label text="Ad"/>
+				</g:customCell>
+				<g:customCell>
+					<g:TextBox ui:field="nameTextBox"/>
+				</g:customCell>
+			</g:row>
+			<g:row>
+				<g:customCell>
+					<g:Label text="Soyad"/>
+				</g:customCell>
+				<g:customCell>
+					<g:TextBox ui:field="lastNameTextBox"/>
+				</g:customCell>
+			</g:row>
+			<g:row>
+				<g:customCell>
+					<g:Label text="Tel No"/>
+				</g:customCell>
+				<g:customCell>
+					<g:TextBox ui:field="phoneTextBox"/>
+				</g:customCell>
+			</g:row>
+			<g:row>
+				<g:customCell>
+					<g:Label text="E-Mail"/>
+				</g:customCell>
+				<g:customCell>
+					<g:TextBox ui:field="eMailTextBox"/>
+				</g:customCell>
+			</g:row>
+			<g:row>
+				<g:customCell>
+					<g:Label text="Adres"/>
+				</g:customCell>
+				<g:customCell>
+					<g:TextBox ui:field="addressTextBox" width="194px" height="114px"/>
+				</g:customCell>
+			</g:row>
+		</g:Grid>
+		<g:AbsolutePanel height="27px" width="254px">
+			<g:at top="0" left="184">
+				<g:Button text="Çık" ui:field="exitButton" width="70px">Cik</g:Button>
+			</g:at>
+		</g:AbsolutePanel>
+		
+		
+	</g:HTMLPanel>
+</ui:UiBinder> 

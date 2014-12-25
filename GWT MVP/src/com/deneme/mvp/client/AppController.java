@@ -19,6 +19,7 @@ public class AppController implements Presenter
 	
 	/**
 	 * Merve was here. Cake is a lie. 
+	 * Merve says Hi! and cake was a lie!!!
 	 */
 	private final SimpleEventBus eventBus;
 	private HasWidgets container;

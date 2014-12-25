@@ -23,6 +23,7 @@ public class AppController implements Presenter
 	/* Tolga's Comment */
 	
 	//erkan deneme
+	//Burak YILDIRIM
 	public AppController(SimpleEventBus eventBus)
 	{
 		this.eventBus = eventBus;

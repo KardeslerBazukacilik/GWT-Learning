@@ -25,6 +25,8 @@ public class AppController implements Presenter
 	//erkan deneme
 	//Burak YILDIRIM
 	//Cihan ULUS
+	//Bu da mi comment degils
+	
 	public AppController(SimpleEventBus eventBus)
 	{
 		this.eventBus = eventBus;

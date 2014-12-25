@@ -16,12 +16,6 @@ import com.google.gwt.user.client.ui.RootPanel;
 
 public class AppController implements Presenter 
 {
-	
-	/**
-	 * Merve was here. Cake is a lie. 
-	 * Merve says Hi! and cake was a lie!!!
-	 * I ate the cake... it was delicious... (Kardesler Bazukacilik)
-	 */
 	private final SimpleEventBus eventBus;
 	private HasWidgets container;
 	

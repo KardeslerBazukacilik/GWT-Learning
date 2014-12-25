@@ -19,6 +19,8 @@ public class AppController implements Presenter
 	private final SimpleEventBus eventBus;
 	private HasWidgets container;
 	
+	/* Tolga's Comment */
+	
 	public AppController(SimpleEventBus eventBus)
 	{
 		this.eventBus = eventBus;

@@ -21,6 +21,7 @@ public class AppController implements Presenter
 	
 	/* Tolga's Comment */
 	
+	
 	public AppController(SimpleEventBus eventBus)
 	{
 		this.eventBus = eventBus;

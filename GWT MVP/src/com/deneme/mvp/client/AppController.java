@@ -20,7 +20,7 @@ public class AppController implements Presenter
 	private HasWidgets container;
 	
 	/*EFE SEZERRRR*/
-	/* Tolga's Comment */
+	/* Tolga's Comment xzczcxzczxcz*/
 	
 	//erkan deneme
 	//Burak YILDIRIM

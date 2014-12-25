@@ -19,6 +19,7 @@ public class AppController implements Presenter
 	private final SimpleEventBus eventBus;
 	private HasWidgets container;
 	
+	/*EFE SEZERRRR*/
 	/* Tolga's Comment */
 	
 	
